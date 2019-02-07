@@ -7,3 +7,5 @@ Then is gets the repositories of that user and shows them as JSON data.
 ## Technologies Used
 NodeJS, Express, EJS(for templating), PassportJS(for authentication)
 
+
+## Start the app using : node server.js in terminal
